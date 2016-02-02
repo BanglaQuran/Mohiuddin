@@ -9,6 +9,8 @@ Please submit pull request when you make a correction.
 
 Note: This project is in alpha stage.
 
+আল্লাহ to be replaced by আল্লাহ্ according to the original translation: http://www.quraanshareef.org/tafseer/index.php
+
 Existing typos:
 Sura#:Aaya#
 2:13
