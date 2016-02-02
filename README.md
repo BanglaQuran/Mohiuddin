@@ -11,6 +11,8 @@ Note: This project is in alpha stage.
 
 Existing typos:
 Sura#:Aaya#
+2:13
+2:14
 2:230
 3:97
 3:125
